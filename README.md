@@ -1,7 +1,7 @@
 # Hi, I'm Jess Landis
-  👀 I’m interested in front end engineering, particularly Javascript and React.
-  🌱 I recently graduated from a Software Engineering Immersive with General Assembly.
-  🧑‍💻 Check out my portfolio at [jesslandis.netlify.app](https://jesslandis.netlify.app)
+  * 👀 I’m interested in front end engineering, particularly Javascript and React.
+  * 🌱 I recently graduated from a Software Engineering Immersive with General Assembly.
+  * 🧑‍💻 Check out my portfolio at [jesslandis.netlify.app](https://jesslandis.netlify.app)
 
 ## What I'm working with 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
